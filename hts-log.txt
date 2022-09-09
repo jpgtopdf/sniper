@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 09 Sep 2022 10:50:13 at https://streaming.cpamovies.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://streaming.cpamovies.com -O1 "C:\Users\TOSHIBA\Desktop\sniper\sniper" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:50:16	Warning: 	Found for https://streaming.cpamovies.com/
+10:50:16	Warning: 	File has moved from https://streaming.cpamovies.com/ to https://streaming.cpamovies.com/login
+10:53:32	Warning: 	Found for https://streaming.cpamovies.com/application/public/
+10:53:32	Warning: 	File has moved from https://streaming.cpamovies.com/application/public/ to https://streaming.cpamovies.com/application/public/login
+10:53:36	Error: 	"Not Found" (404) at link https://streaming.cpamovies.com/application/fonts/flag-icon-css/flags/4x3/cz.svg (from https://streaming.cpamovies.com/application/public/vendors/css/vendors.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 37 seconds : 538 links scanned, 534 files written (9601216 bytes overall) [9697953 bytes received at 44691 bytes/sec], 125718 bytes transferred using HTTP compression in 10 files, ratio 38%, 21.5 requests per connection
+(1 errors, 4 warnings, 0 messages)
